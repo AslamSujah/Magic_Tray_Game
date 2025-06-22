@@ -64,10 +64,13 @@ Magic_Tray_Game/
 
 ## 🚀 Quick Start
 
-### **Option 1: Direct Browser Access**
+### **Option 1: Hosted Deployment ([AWS Apache Web Server](http://48.217.1.64/))**
+This instance is hosted on an AWS Ubuntu VM running the Apache Web Server.
+
+### **Option 2: Direct Browser Access**
 Simply open `index.html` in any modern web browser - no server required!
 
-### **Option 2: Local Web Server**
+### **Option 3: Local Web Server**
 For enhanced features and testing, use any web server:
 
 ```bash
